@@ -8,3 +8,9 @@ When writing commit messages, you can use bullet points to list the changes or f
 - Update component Y
 - Fix issue with Z
 
+Initialize a Git Repository:
+To start tracking your project with Git, navigate to your project directory and run:
+
+git init
+
+
