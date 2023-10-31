@@ -1,0 +1,10 @@
+// How to added git 
+
+Commit Messages:
+
+When writing commit messages, you can use bullet points to list the changes or features you're adding. You can format your commit messages like this:
+
+  - Add feature X
+- Update component Y
+- Fix issue with Z
+
